@@ -6,8 +6,8 @@ body:
 - type: markdown
   attributes:
     value: |      
-      Thank you for reporting a bug! Use the sections below to submit a bug **only** if it's related to samples in this repository. 
-            
+      Thank you for reporting a bug! Use the sections below to submit a bug **only** if it's related to samples in this repository.             
+      
       - All bug reports are welcome!
       - This  repository is maintained voluntarily. Please be courteous and patient. 🙂
       - Remember to include sufficient details and context.
@@ -15,6 +15,7 @@ body:
       - Pull requests will be accepted. If you know how to fix it - go ahead! If you know how to make it - go ahead!
       
       Please provide the following details about the issue you encountered.  *Issues that do not provide the information requested in this form will be flagged as **incomplete** & automatically closed.*
+      
 body:  
   - type: input
     id: contact
