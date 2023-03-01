@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
 
-        Thank you for reporting a bug! Use the sections below to submit a bug **only** if it's related to samples in this repository.             
+        Thank you for reporting a bug! Use the sections below to submit a bug **only** if it relates to this repository.
 
         - All bug reports are welcome!
         - This  repository is maintained voluntarily. Please be courteous and patient. 🙂
